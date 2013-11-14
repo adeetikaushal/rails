@@ -1,0 +1,5 @@
+<h1>Say#Goodmorning</h1>
+<p>Good Morning</p>
+
+Time is <%= Time.now%>
+
